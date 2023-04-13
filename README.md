@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Singh</h1>
 <h3 align="center">A passionate frontend developer from Chandigarh, India</h3>
 
-<img align="center" alt="coding" width="400" src="https://github.com/vivek31singh/vivek31singh/blob/main/animated.gif">
+<img align="center" alt="coding" width="100vw" src="https://github.com/vivek31singh/vivek31singh/blob/main/animated.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek31singh&label=Profile%20views&color=0e75b6&style=flat" alt="vivek31singh" /> </p>
 
