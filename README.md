@@ -1,7 +1,7 @@
 ![logo](https://github.com/vivek31singh/vivek31singh/blob/main/download.jfif)
 
 <h1 align="center">Hi 👋, I'm Vivek Singh</h1>
-<h3 align="center">A passionate frontend developer from Chandigarh, India</h3>
+<h3 align="center">A passionate fullstack developer from Chandigarh, India</h3>
 
 <img align="center" alt="coding" width="100vw" src="https://github.com/vivek31singh/vivek31singh/blob/main/animated.gif">
 
