@@ -1,7 +1,7 @@
 ![logo](https://github.com/vivek31singh/vivek31singh/blob/main/download.jfif)
 
 <h1 align="center">Hi 👋, I'm Vivek Singh</h1>
-<h3 align="center">A passionate fullstack developer from Chandigarh, India</h3>
+<h3 align="center">A passionate fullstack web developer from Chandigarh, India</h3>
 
 <img align="center" alt="coding" width="100vw" src="https://github.com/vivek31singh/vivek31singh/blob/main/animated.gif">
 
@@ -11,19 +11,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Weather forcast application](https://react-weatherforcast.netlify.app)
+- 🔭 I’m currently working on online coding platform built using Next.js and WebRTC
 
-- 🌱 I’m currently learning **ReactJs,Javasacript**
+- 🌱 I’m currently learning **webRTC, AWS, Docker**
 
 - 👨‍💻 All of my projects are available at [https://vivek-singh-portfolio.netlify.app/](https://vivek-singh-portfolio.netlify.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **vickydigari6154@gmail.com**
 
 - 📄 Know about my experiences [https://vivek-singh-portfolio.netlify.app/](https://vivek-singh-portfolio.netlify.app/)
 
-- ⚡ Fun fact **"Passionate about honing my skills in #ReactJS and #frontenddevelopment. Eager to learn, grow, and tackle challenging projects. Hardworking and determined to achieve success. Let's code together! 💻🚀 #codinglife #learntocode #webdevelopment"**
+- ⚡ Fun fact **"Passionate about honing my skills in #NextJS and #BackendDevelopment. Eager to learn, grow, and tackle challenging projects. Hardworking and determined to achieve success. Let's code together! 💻🚀 #codinglife #learntocode #webdevelopment"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
